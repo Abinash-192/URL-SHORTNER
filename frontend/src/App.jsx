@@ -196,7 +196,7 @@
 
 import { useEffect, useState } from "react";
 
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://url-shortner-1-gvxr.onrender.com";
 
 export default function App() {
   const [links, setLinks] = useState({});
